@@ -1,4 +1,4 @@
-nostr.net services [start.nostr.net](https://start.nostr.net) || [relay.nostr.net](https://relay.nostr.net) ||  [nostr.at](https://nostr.at) || [wot.nostr.net](https://wot.nostr.net) || [delete.nostr.net](https://delete.nostr.net)
+fnostr.net services [start.nostr.net](https://start.nostr.net) || [relay.nostr.net](https://relay.nostr.net) ||  [nostr.at](https://nostr.at) || [wot.nostr.net](https://wot.nostr.net) || [delete.nostr.net](https://delete.nostr.net)
 
 "nostr" stands for "**N**otes and **O**ther **S**tuff **T**ransmitted by
 **R**elays" and is an open protocol for censorship-resistant global networks.
@@ -241,7 +241,7 @@ Websites with lists of relays and their performance/health:
 - [notestack.com](https://notestack.com)![stars](https://img.shields.io/github/stars/nodetec/notestack.svg?style=social) - Blogging site for nostr, supports markdown
 - [Nuxstr](https://github.com/sebastix/nuxstr)![stars](https://img.shields.io/github/stars/sebastix/nuxstr.svg?style=social) - Starter template for building a Nostr client with the Nuxt Vue framework and Nostr Dev Kit (NDK).
   - [nuxstr.nostrver.se](https://nuxstr.nostrver.se) - demo
-- [n_cord](https://github.com/0n4t3/n_cord)![stars](https://img.shields.io/github/stars/0n4t3/n_cord.svg?style=social) - A Discord inspired static HTML client.
+- [n_cord](https://github.com/0n4t3/n_cord)![stars](https://img.shields.io/github/stars/0n4t3/n_cord.svg?style=social) - A Discord inspired chat style client standard Nostr notes, built in static HTML & JavaScript.
   - [0n4t3.github.io/n_cord/](https://0n4t3.github.io/n_cord/) - live instance
 - [Olas](https://github.com/pablof7z/olas)![stars](https://img.shields.io/github/stars/pablof7z/olas.svg?style=social) - An instagram-like client
 - [Oracolo](https://github.com/dtonon/oracolo)![stars](https://img.shields.io/github/stars/dtonon/oracolo.svg?style=social) - Oracolo is a minimalist blog, powered by Nostr, that consists of a single html file.
